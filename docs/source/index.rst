@@ -19,5 +19,5 @@ Contents
 .. toctree::
 
    quick_commands
-	 usage
+   usage
    api
