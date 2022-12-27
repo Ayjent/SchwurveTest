@@ -33,9 +33,15 @@ to 12, and can only be set prior to applying the set-up.
 Stiffness (Pre-Set-Up)
 ======================
 
+This sets the initial weighting of the cloth simulation where higher values result in a stiffer simulation and lower values result in a limper simulation.  Note 
+that the values are very sensitive on the low end and can change the simulation more dramatically than higher end values.  This value can be modified after the
+"Curve Cloth Sim" Button is applied in the "Cloth Sim Settings".
+
 Tip Hold (Pre-Set-Up)
 =====================
 
+This set the initial weighting of the cloth simulation on the "tip" end of the simulation so that this end can be more or less consistent with the rest of the
+simulation.  This value can be modified after the "Curve Cloth Sim" Button is applied in the "Cloth Sim Settings".
 
 
 Geometry Checkbox
@@ -51,3 +57,23 @@ Schwurve comes pre-loaded with several Geometry Nodes set-ups specifically desig
 the use of the "(Schwurve)" string in the Nodetree name.  You can create your own by utilizing the same string in a new Nodetree that Schwurve will recognize.
 When you select your desired Schwurve Nodetree it will apply that set-up to your Curve object (multiple separated curves in the same Curve object will be 
 converted to separate systems organized by collections with the same Schwurve Nodetree applied to each one but separately modifiable once created).
+
+Geometry Settings (Post-Set-Up)
+===============================
+
+These settings are specific to the Schwurve Geometry Nodetrees allowing you to modify inputs of those Nodetrees in realtime and change the desired Schwurve set-up.
+
+Schwurve Nodes Dropdown
+=======================
+
+Schwurve comes pre-loaded with several Geometry Nodes set-ups specifically designed to work with the plugin, which are automatically filtered by Schwurve through
+the use of the "(Schwurve)" string in the Nodetree name.  You can create your own by utilizing the same string in a new Nodetree that Schwurve will recognize.
+When you select your desired Schwurve Nodetree it will apply that set-up to your Curve object (multiple separated curves in the same Curve object will be 
+converted to separate systems organized by collections with the same Schwurve Nodetree applied to each one but separately modifiable once created).
+
+Schwurves Nodes inputs
+======================
+
+These settings will vary based on the applied Schwurve Nodetree, but will only display inputs with Float and Integer values in this version.  NOTE: The
+values will reset to default and will not be maintained if you switch the selected Schwurve Nodetree.  See "Setting Up Schwurve Nodes" for creating your
+own Schwurve Nodes.
