@@ -19,5 +19,7 @@ Contents
 .. toctree::
 
    quick_commands
+   additive_editing
+   mesh_additive_editing
    usage
    api
