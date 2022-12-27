@@ -19,7 +19,6 @@ Contents
 .. toctree::
 
    quick_commands
-   additive_editing
    mesh_additive_editing
    armature_additive_editing
    cloth_sim_settings
