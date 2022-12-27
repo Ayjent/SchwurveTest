@@ -1,6 +1,9 @@
 Quick Commands
 --------------
 
+Universal Commands
+==================
+
 **Snap Cursor to World Origin** - Same as menu command to reset Cursor to World origin of 0,0,0
 
 **Snap to Cursor(Offset)** - Same as menu command but useful for Curve object Control Points and Handles
