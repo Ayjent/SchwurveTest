@@ -43,12 +43,11 @@ Directions to Use **Hook to Selected**
 
 #. In Edit Mode
 
-   #. Select Vertex or Vertices (Control Point(s)) to define Hook Position.  NOTE: If multiple vertices or
-   control points are selected it will be the location in the center of the selected vertices/points.
+   #. Select Vertex or Vertices (Control Point(s)) to define Hook Position.  NOTE: If multiple vertices or control points are selected it will be the location in the center of the selected vertices/points.
    
    #. Click on "Hook to Selected" button.
 
-#.  In Object Mode
+#. In Object Mode
    
    #. Choose the Empty.
    
