@@ -32,3 +32,15 @@ This command will create a hook modifier on the object, using the selected empty
 selected vertices/control points.  
 
 .. image:: /Hook2Selected.gif 
+
+Directions to Use **Hook to Selected**
+#. In Object Mode
+  *. Select Empty
+  *. Shift+Select Mesh or Curve Object
+#. In Edit Mode
+  *. Select Vertex or Vertices (Control Point(s)) to define Hook Position.  NOTE: If multiple vertices or
+  control points are selected it will be the location in the center of the selected vertices/points.
+  *. Click on "Hook to Selected" button.
+#.  In Object Mode
+  *. Choose the Empty.
+  *. Hit G to move the selection in the Viewport to verify that empty moves vertex/vertices on Curve or Mesh.
