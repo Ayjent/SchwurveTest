@@ -24,4 +24,4 @@ applied to mesh
 while keeping original Curve Object, and a new low resolution Mesh (i.e., low resolution copy of original curve converted to mesh) with Cloth simulations
 modifier applied to mesh
 
-.. image:: /
+.. image:: /Curve2SimpClothArm.gif 
