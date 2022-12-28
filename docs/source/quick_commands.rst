@@ -15,12 +15,14 @@ being moved without collapsing the handles and control points all in the same lo
 
 **Snap Cursor to Selection** - Same as menu command to snap cursor to origin of active object
 
-.. image:: /SnapCursortoWorld.gif
+.. image:: /SnapCursor2Selection.gif
 
 Object Mode Commands
 ====================
 
 **Add Empty** - Adds an empty at cursor position
+
+.. image:: /AddEmpty.gif
 
 Edit Mode Commands
 ==================
