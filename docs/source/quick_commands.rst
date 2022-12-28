@@ -11,7 +11,11 @@ Universal Commands
 **Snap to Cursor(Offset)** - Same as menu command but useful for Curve object Control Points and Handles
 being moved without collapsing the handles and control points all in the same location.
 
+.. image:: /Snap2Cursor.gif
+
 **Snap Cursor to Selection** - Same as menu command to snap cursor to origin of active object
+
+.. image:: /SnapCursortoWorld.gif
 
 Object Mode Commands
 ====================
