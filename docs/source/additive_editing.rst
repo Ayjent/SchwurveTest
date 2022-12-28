@@ -18,6 +18,10 @@ while keeping original Curve Object, and a new low resolution Mesh (i.e., low re
 while keeping original Curve Object, and a new low resolution Mesh (i.e., low resolution copy of original curve converted to mesh) with Skin Modifier
 applied to mesh
 
+.. image:: /Curve2SimpArmSkinRig.gif
+
 **Curve 2 Simp Cloth Arm** - Creates a low resolution Armature from Curve based on number of control points on Curve (i.e., number of curve vertices),
 while keeping original Curve Object, and a new low resolution Mesh (i.e., low resolution copy of original curve converted to mesh) with Cloth simulations
 modifier applied to mesh
+
+.. image:: /
