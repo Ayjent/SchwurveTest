@@ -113,7 +113,7 @@ As stated above, this dropdown menu will contain all of your Schwurve Geometry N
 Schwurve Nodes Inputs
 ^^^^^^^^^^^^^^^^^^^^^
 
-These settings will vary based on the applied Schwurve Nodetree, but will only display inputs with Float and Integer values in this version.  
+These settings will vary based on the applied Schwurve Nodetree, but will only display inputs with Float and Integer values in this version.  You can adjust these sliders and the results will immediately translate in the viewport allowing you to control your generated set up. 
 
 .. note:: 
    The values will reset to default and will not be maintained if you switch the selected Schwurve Nodetree.  See "Setting Up Schwurve Nodes" for creating your own Schwurve Nodes.
