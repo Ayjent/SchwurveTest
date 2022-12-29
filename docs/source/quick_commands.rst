@@ -48,7 +48,7 @@ selected vertices/control points.
 
 .. image:: ../_static/Hook2Selected.gif
 
-.. admonition:: Directions
+.. admonition:: 
 
    Directions to Use **Hook to Selected**
 
