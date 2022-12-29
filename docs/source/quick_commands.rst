@@ -6,7 +6,7 @@ Universal Commands
 
 **Snap Cursor to World Origin** - Same as menu command to reset Cursor to World origin of 0,0,0
 
-.. image:: https://github.com/Ayjent/SchwurveTest/docs/_static/SnapCursortoWorld.gif
+.. image:: docs/_static/SnapCursortoWorld.gif
 
 **Snap to Cursor(Offset)** - Same as menu command but useful for Curve object Control Points and Handles
 being moved without collapsing the handles and control points all in the same location.
