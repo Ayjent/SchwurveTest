@@ -46,7 +46,7 @@ Hook to Selected
 
 Only available if Empty and Mesh or Curve (as active object) are both selected.  
 This command will create a hook modifier on the object, using the selected empty associated with the 
-selected vertices/control points.  You can use the `addempty`.
+selected vertices/control points.  You can use the `addempty`_.
 
 .. image:: ../_static/Hook2Selected.gif
 
