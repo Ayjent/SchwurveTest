@@ -1,8 +1,11 @@
 Geometry
 --------
 
-.. image:: ../_static/GeometryArmOption.png  
-.. image:: ../_static/Geometry.png
+.. figure:: ../_static/GeometryArmOption.png
+   :align: left
+   
+.. figure:: ../_static/Geometry.png
+   :align: right
 
 This is the marquee feature of the Schuwrve add-on allowing you to specify various options to convert a Curve Object into a fully functioning set-up containing
 an integrated system that is bound to a generated Mesh cloth simulation with hooked-Empties. 
