@@ -41,12 +41,16 @@ This dictates the resolution of the simulation ((the number of vertices/control 
 Sim Rez to 3 and the curve has three (3) control points, the simulation will contain six (6) segments (e.g., six armature bones).  This value can be set from 1 
 to 12, and can only be set prior to applying the set-up.
 
+.. _Stiffness:
+
 Stiffness (Pre-Set-Up)
 ^^^^^^^^^^^^^^^^^^^^^^
 
 This sets the initial weighting of the cloth simulation where higher values result in a stiffer simulation and lower values result in a limper simulation.  Note 
 that the values are very sensitive on the low end and can change the simulation more dramatically than higher end values.  This value can be modified after the
 "Curve Cloth Sim" Button is applied in the "Cloth Sim Settings".
+
+.. _Tip Hold:
 
 Tip Hold (Pre-Set-Up)
 ^^^^^^^^^^^^^^^^^^^^^
@@ -93,7 +97,7 @@ Cloth Sim Settings
 
 .. image:: ../_static/ClothSim-Geometry-Settings.png
 
-You can also modify the Cloth Sim Settings in realtime above the Geometry Settings once you have generated the Schwurve Set Up.
+You can also modify the Cloth Sim Settings in realtime above the Geometry Settings once you have generated the Schwurve Set Up.  See `Stiffness`_ and `Tip Hold`_ sections for more information about the Stiffness and Tip Hold controls.
 
 Schwurves Nodes Inputs
 ^^^^^^^^^^^^^^^^^^^^^^
