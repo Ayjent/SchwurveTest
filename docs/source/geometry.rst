@@ -82,11 +82,18 @@ Geometry Settings
 
 .. image:: ../_static/GeometryInputSettings.png
 
-These settings are specific to the Schwurve Geometry Nodetrees allowing you to modify inputs of those Nodetrees in realtime and change the desired Schwurve set-up.  You can also modify the Cloth Sim Settings in realtime above the Geometry Settings once you have generated the Schwurve Set Up.
+These settings are specific to the Schwurve Geometry Nodetrees allowing you to modify inputs of those Nodetrees in realtime and change the desired Schwurve set-up.  
+
+.. _Schwurve Nodes Inputs:
+
+.. _Cloth Sim Settings:
+
+Cloth Sim Settings
+^^^^^^^^^^^^^^^^^^
 
 .. image:: ../_static/ClothSim-Geometry-Settings.png
 
-.. _Schwurve Nodes Inputs:
+You can also modify the Cloth Sim Settings in realtime above the Geometry Settings once you have generated the Schwurve Set Up.
 
 Schwurves Nodes Inputs
 ^^^^^^^^^^^^^^^^^^^^^^
