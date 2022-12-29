@@ -1,5 +1,5 @@
 Geometry
---------
+========
 
 .. figure:: ../_static/GeometryArmOption.png
    :align: left
@@ -9,6 +9,9 @@ Geometry
 
 This is the marquee feature of the Schuwrve add-on allowing you to specify various options to convert a Curve Object into a fully functioning set-up containing
 an integrated system that is bound to a generated Mesh cloth simulation with hooked-Empties. 
+
+Pre-Generation Settings
+-----------------------
 
 Curve Cloth Sim Button
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -69,10 +72,13 @@ the use of the "(Schwurve)" string in the Nodetree name.  You can create your ow
 When you select your desired Schwurve Nodetree it will apply that set-up to your Curve object (multiple separated curves in the same Curve object will be 
 converted to separate systems organized by collections with the same Schwurve Nodetree applied to each one but separately modifiable once created).
 
+Post-Generation Settings
+------------------------
+
 .. _Geometry Settings:
 
-Geometry Settings (Post-Set-Up)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Geometry Settings
+^^^^^^^^^^^^^^^^^
 
 .. image:: ../_static/GeometryInputSettings.png
 
