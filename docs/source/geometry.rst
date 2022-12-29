@@ -63,15 +63,20 @@ the use of the "(Schwurve)" string in the Nodetree name.  You can create your ow
 When you select your desired Schwurve Nodetree it will apply that set-up to your Curve object (multiple separated curves in the same Curve object will be 
 converted to separate systems organized by collections with the same Schwurve Nodetree applied to each one but separately modifiable once created).
 
+.. _Geometry Settings:
+
 Geometry Settings (Post-Set-Up)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 These settings are specific to the Schwurve Geometry Nodetrees allowing you to modify inputs of those Nodetrees in realtime and change the desired Schwurve set-up.
 
 
-Schwurves Nodes inputs
+.. _Schwurve Nodes Inputs:
+
+Schwurves Nodes Inputs
 ^^^^^^^^^^^^^^^^^^^^^^
 
-These settings will vary based on the applied Schwurve Nodetree, but will only display inputs with Float and Integer values in this version.  NOTE: The
-values will reset to default and will not be maintained if you switch the selected Schwurve Nodetree.  See "Setting Up Schwurve Nodes" for creating your
-own Schwurve Nodes.
+These settings will vary based on the applied Schwurve Nodetree, but will only display inputs with Float and Integer values in this version.  
+
+.. note: 
+   The values will reset to default and will not be maintained if you switch the selected Schwurve Nodetree.  See "Setting Up Schwurve Nodes" for creating your own Schwurve Nodes.
