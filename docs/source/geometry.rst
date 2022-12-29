@@ -76,6 +76,9 @@ the use of the "(Schwurve)" string in the Nodetree name.  You can create your ow
 When you select your desired Schwurve Nodetree it will apply that set-up to your Curve object (multiple separated curves in the same Curve object will be 
 converted to separate systems organized by collections with the same Schwurve Nodetree applied to each one but separately modifiable once created).
 
+.. figure:: ../_static/PreGen-SchwurveDropdown.png
+   :align: right
+
 Post-Generation Settings
 ------------------------
 
