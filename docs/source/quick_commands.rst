@@ -48,7 +48,9 @@ selected vertices/control points.
 
 .. image:: ../_static/Hook2Selected.gif
 
-.. container:: Directions to Use **Hook to Selected**
+.. container:: 
+
+   Directions to Use **Hook to Selected**
 
    #. In Object Mode
 
