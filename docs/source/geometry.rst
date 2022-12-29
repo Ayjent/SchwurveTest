@@ -78,5 +78,5 @@ Schwurves Nodes Inputs
 
 These settings will vary based on the applied Schwurve Nodetree, but will only display inputs with Float and Integer values in this version.  
 
-.. note: 
+.. note:: 
    The values will reset to default and will not be maintained if you switch the selected Schwurve Nodetree.  See "Setting Up Schwurve Nodes" for creating your own Schwurve Nodes.
