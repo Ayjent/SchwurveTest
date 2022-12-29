@@ -105,7 +105,7 @@ You can also modify the Cloth Sim Settings in realtime above the Geometry Settin
 Schwurve Nodes Dropdown
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: ../_static/PostGen-SchwurveDropdown.png
+.. figure:: ../_static/PostGen-SchwurveDropDown.png
    :align: right
 
 As stated above, this dropdown menu will contain all of your Schwurve Geometry Nodetrees that you can apply to the selected Curve.
