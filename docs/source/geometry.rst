@@ -53,6 +53,8 @@ Geometry Checkbox
 This option tells the add-on that you want your set-up to include Curve-based Geometry Nodes systems, and allows you to select specific Schwurve Geometry Nodes 
 as described in the Schwurve Nodes Dropdown section below.
 
+.. _Schwurve Nodes Dropdown:
+
 Schwurve Nodes Dropdown
 ^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -66,13 +68,6 @@ Geometry Settings (Post-Set-Up)
 
 These settings are specific to the Schwurve Geometry Nodetrees allowing you to modify inputs of those Nodetrees in realtime and change the desired Schwurve set-up.
 
-Schwurve Nodes Dropdown
-^^^^^^^^^^^^^^^^^^^^^^^
-
-Schwurve comes pre-loaded with several Geometry Nodes set-ups specifically designed to work with the plugin, which are automatically filtered by Schwurve through
-the use of the "(Schwurve)" string in the Nodetree name.  You can create your own by utilizing the same string in a new Nodetree that Schwurve will recognize.
-When you select your desired Schwurve Nodetree it will apply that set-up to your Curve object (multiple separated curves in the same Curve object will be 
-converted to separate systems organized by collections with the same Schwurve Nodetree applied to each one but separately modifiable once created).
 
 Schwurves Nodes inputs
 ^^^^^^^^^^^^^^^^^^^^^^
