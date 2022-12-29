@@ -1,6 +1,8 @@
 Quick Commands
 --------------
 
+.. image:: ../_static/QuickCommands.png
+
 Universal Commands
 ==================
 
