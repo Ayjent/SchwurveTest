@@ -102,8 +102,16 @@ Cloth Sim Settings
 
 You can also modify the Cloth Sim Settings in realtime above the Geometry Settings once you have generated the Schwurve Set Up.  See `Stiffness`_ and `Tip Hold`_ sections for more information about the Stiffness and Tip Hold controls.
 
-Schwurves Nodes Inputs
-^^^^^^^^^^^^^^^^^^^^^^
+Schwurve Nodes Dropdown
+^^^^^^^^^^^^^^^^^^^^^^^
+
+As stated above, this dropdown menu will contain all of your Schwurve Geometry Nodetrees that you can apply to the selected Curve.
+
+.. figure:: ../_static/PostGen-SchwurveDropdown.png
+   :align: right
+
+Schwurve Nodes Inputs
+^^^^^^^^^^^^^^^^^^^^^
 
 These settings will vary based on the applied Schwurve Nodetree, but will only display inputs with Float and Integer values in this version.  
 
