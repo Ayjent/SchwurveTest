@@ -4,30 +4,45 @@ Quick Commands
 Universal Commands
 ==================
 
-**Snap Cursor to World Origin** - Same as menu command to reset Cursor to World origin of 0,0,0
+Snap Cursor to World Origin
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Same as menu command to reset Cursor to World origin of 0,0,0
 
 .. image:: ../_static/SnapCursortoWorld.gif
 
-**Snap to Cursor(Offset)** - Same as menu command but useful for Curve object Control Points and Handles
+Snap to Cursor(Offset) 
+^^^^^^^^^^^^^^^^^^^^^^
+
+Same as menu command but useful for Curve object Control Points and Handles
 being moved without collapsing the handles and control points all in the same location.
 
 .. image:: ../_static/Snap2CursorOffset.gif
 
-**Snap Cursor to Selection** - Same as menu command to snap cursor to origin of active object
+Snap Cursor to Selection 
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Same as menu command to snap cursor to origin of active object
 
 .. image:: ../_static/SnapCursor2Selection.gif
 
 Object Mode Commands
 ====================
 
-**Add Empty** - Adds an empty at cursor position
+Add Empty 
+^^^^^^^^^
+
+Adds an empty at cursor position
 
 .. image:: ../_static/AddEmpty.gif
 
 Edit Mode Commands
 ==================
 
-**Hook to Selected** - Only available if Empty and Mesh or Curve (as active object) are both selected.  
+Hook to Selected 
+^^^^^^^^^^^^^^^^
+
+Only available if Empty and Mesh or Curve (as active object) are both selected.  
 This command will create a hook modifier on the object, using the selected empty associated with the 
 selected vertices/control points.  
 
