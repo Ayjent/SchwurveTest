@@ -15,7 +15,9 @@ Armature Checkbox
 
 This option tells the add-on that you your set-up to consist of an Armature bound to a Mesh with a Cloth simulation modifier applied.  The cloth simulation
 controls the armatures movements.  This allows you to have an Armature with physics as the parent of another mesh.  Moreover, if this option is selected you
-will also have the option to keep the original curve, but eliminates the "Geometry Checkbox" option.  See "Keep Curve" and "Geometry Checkbox" options below.
+will also have the option to keep the original curve, but eliminates the "Geometry Checkbox" option.  See `Keep Curve`_ and "Geometry Checkbox" options below.
+
+.. _Keep Curve:
 
 Keep Curve Option
 ^^^^^^^^^^^^^^^^^
