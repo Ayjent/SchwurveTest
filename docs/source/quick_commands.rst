@@ -22,12 +22,16 @@ Object Mode Commands
 
 **Add Empty** - Adds an empty at cursor position
 
+.. image:: ../_static/AddEmpty.gif
+
 Edit Mode Commands
 ==================
 
 **Hook to Selected** - Only available if Empty and Mesh or Curve (as active object) are both selected.  
 This command will create a hook modifier on the object, using the selected empty associated with the 
 selected vertices/control points.  
+
+.. image:: ../_static/Hook2Selected.gif
 
 Directions to Use **Hook to Selected**
 
