@@ -6,8 +6,6 @@ Curve Chains
 
 **Curve to Armature** - Creates Armature from Curve, while keeping original Curve Object, and a new Mesh (i.e., original curve converted to mesh)
 
-.. image:: https://github.com/Ayjent/SchwurveTest//docs/_static/CurveToArmature.gif
-
 **Curve 2 Arm Skin Rig** - Creates Armature from Curve, while keeping original Curve Object, and a new Mesh (i.e., original curve converted to mesh) with
 Skin Modifier applied to mesh
 
