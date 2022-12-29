@@ -15,7 +15,7 @@ Armature Checkbox
 
 This option tells the add-on that you your set-up to consist of an Armature bound to a Mesh with a Cloth simulation modifier applied.  The cloth simulation
 controls the armatures movements.  This allows you to have an Armature with physics as the parent of another mesh.  Moreover, if this option is selected you
-will also have the option to keep the original curve, but eliminates the "Geometry Checkbox" option.  See `Keep Curve`_ and "Geometry Checkbox" options below.
+will also have the option to keep the original curve, but eliminates the `Geometry Checkbox`_ option.  See `Keep Curve`_ and `Geometry Checkbox`_ options below.
 
 .. _Keep Curve:
 
@@ -45,6 +45,7 @@ Tip Hold (Pre-Set-Up)
 This set the initial weighting of the cloth simulation on the "tip" end of the simulation so that this end can be more or less consistent with the rest of the
 simulation.  This value can be modified after the "Curve Cloth Sim" Button is applied in the "Cloth Sim Settings".
 
+.. _Geometry Checkbox:
 
 Geometry Checkbox
 ^^^^^^^^^^^^^^^^^
