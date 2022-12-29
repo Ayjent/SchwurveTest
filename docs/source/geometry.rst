@@ -43,8 +43,8 @@ to 12, and can only be set prior to applying the set-up.
 
 .. _Stiffness:
 
-Stiffness (Pre-Set-Up)
-^^^^^^^^^^^^^^^^^^^^^^
+Stiffness
+^^^^^^^^^
 
 This sets the initial weighting of the cloth simulation where higher values result in a stiffer simulation and lower values result in a limper simulation.  Note 
 that the values are very sensitive on the low end and can change the simulation more dramatically than higher end values.  This value can be modified after the
@@ -52,8 +52,8 @@ that the values are very sensitive on the low end and can change the simulation 
 
 .. _Tip Hold:
 
-Tip Hold (Pre-Set-Up)
-^^^^^^^^^^^^^^^^^^^^^
+Tip Hold
+^^^^^^^^
 
 This set the initial weighting of the cloth simulation on the "tip" end of the simulation so that this end can be more or less consistent with the rest of the
 simulation.  This value can be modified after the "Curve Cloth Sim" Button is applied in the "Cloth Sim Settings".
