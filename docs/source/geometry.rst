@@ -51,7 +51,7 @@ Geometry Checkbox
 ^^^^^^^^^^^^^^^^^
 
 This option tells the add-on that you want your set-up to include Curve-based Geometry Nodes systems, and allows you to select specific Schwurve Geometry Nodes 
-as described in the Schwurve Nodes Dropdown section below.
+as described in the `Schwurve Nodes Dropdown`_ section below.
 
 .. _Schwurve Nodes Dropdown:
 
