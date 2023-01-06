@@ -16,5 +16,6 @@ Tip Hold
 This setting is useful in making sure that the stiffness setting doesn't create too much of a limp end of the strand and will inherit the weight of
 vertices with lower index values keeping the tip from being limp in the cloth simulation.  It's operates like the blue pill to avoid flacid sims.
 
+.. note:: 
 As of right now the Schwurve add-on does not create collisions with these simulations, but is something that will
 be implemented in future versions if there is substantial interest in updating and if Blender development doesn't make such an add-on unnecessary.
