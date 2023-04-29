@@ -4,6 +4,7 @@ Mesh Additive Editing
 Mesh Additive Editing is active when you have a selected Mesh Object.  It can be used to apply physics, armatures and setups from the Mesh Object.
 
 .. note::
+
    In order to work properly it is best to have Mesh Objects without faces and branches from vertices.
 
 **Mesh to Armature** - Button used to create an Armature from a Mesh object with two additional options.
